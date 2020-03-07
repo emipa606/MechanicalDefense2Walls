@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>/Defs/ResearchTabDef[defName = "MD2_base_ResearchTab"]</xpath>
+				<success>Invert</success>
+			</li>
+			<li Class="PatchOperationInsert">
+				<xpath>/Defs/ResearchTabDef[defName = "Main"]</xpath>
+				<value>
+					<ResearchTabDef>
+						<defName>MD2_base_ResearchTab</defName>
+						<label>Mechanical Defense 2</label>
+					</ResearchTabDef>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+
+</Patch>

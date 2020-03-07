@@ -1,0 +1,6 @@
+E:\Steam\steamapps\common\RimWorld\Mods\MechanicalDefence2Walls\1.1\Assemblies\MD2 Mechanical Walls.dll
+E:\Steam\steamapps\common\RimWorld\Mods\MechanicalDefence2Walls\1.1\Assemblies\MD2 Mechanical Walls.pdb
+E:\Steam\steamapps\common\RimWorld\Mods\MechanicalDefence2Walls\Source\MD2 Mechanical Walls\obj\Debug\MD2 Mechanical Walls.csprojAssemblyReference.cache
+E:\Steam\steamapps\common\RimWorld\Mods\MechanicalDefence2Walls\Source\MD2 Mechanical Walls\obj\Debug\MD2 Mechanical Walls.csproj.CoreCompileInputs.cache
+E:\Steam\steamapps\common\RimWorld\Mods\MechanicalDefence2Walls\Source\MD2 Mechanical Walls\obj\Debug\MD2 Mechanical Walls.dll
+E:\Steam\steamapps\common\RimWorld\Mods\MechanicalDefence2Walls\Source\MD2 Mechanical Walls\obj\Debug\MD2 Mechanical Walls.pdb
