@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Mechanical Defense 2 - Walls (Continued)</name>
-  <packageId>Mlie.MechanicalDefense2Walls</packageId>
+  <packageId>Mlie.MechanicalDefence2Walls</packageId>
 	<author>Mlie</author>
-	<url>https://github.com/emipa606/MechanicalDefense2Walls</url>
+	<url>https://github.com/emipa606/MechanicalDefence2Walls</url>
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
@@ -19,7 +19,7 @@ Support-chat:
 https://discord.gg/SuhwVpM
 
 Non-steam version:
-https://github.com/emipa606/MechanicalDefense2Walls
+https://github.com/emipa606/MechanicalDefence2Walls
 	
 --- Original Description ---
 "Mechanical Defense 2" (MD2)
