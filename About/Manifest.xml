@@ -6,8 +6,8 @@
   <incompatibleWith />
   <loadBefore />
   <loadAfter />
-  <manifestUri>https://raw.githubusercontent.com/emipa606/MechanicalDefense2Walls/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/emipa606/MechanicalDefense2Walls/releases</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/emipa606/MechanicalDefence2Walls/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/MechanicalDefence2Walls/releases</downloadUri>
 </Manifest>
 
 
