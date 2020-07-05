@@ -1,4 +1,4 @@
-# MechanicalDefence2Walls
+# MechanicalDefense2Walls
 
 Update of mipens mod for RimWorld 1.1
 
