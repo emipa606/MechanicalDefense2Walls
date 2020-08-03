@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ThingDef ParentName="BuildingBase">
     <defName>MechWallExtended</defName>
     <label>Extended Mechanical Wall</label>
@@ -16,7 +15,6 @@
         <li>Rock</li>
       </linkFlags>
     </graphicData>
-    
     <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
     <statBases>
       <MaxHitPoints>300</MaxHitPoints>
@@ -47,16 +45,16 @@
     <designationCategory>Structure</designationCategory>
     <staticSunShadowHeight>1.0</staticSunShadowHeight>
     <blockLight>true</blockLight>
-	<blockWind>true</blockWind>
-	<canOverlapZones>false</canOverlapZones>
-	<building>
+    <blockWind>true</blockWind>
+    <canOverlapZones>false</canOverlapZones>
+    <building>
       <isInert>true</isInert>
-		<blueprintGraphicData>
-			<texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
-		</blueprintGraphicData>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
+      </blueprintGraphicData>
     </building>
     <comps>
-	    <li Class="CompProperties_Power">
+      <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
         <basePowerConsumption>15</basePowerConsumption>
         <transmitsPower>true</transmitsPower>
@@ -69,10 +67,9 @@
       </li>
     </damageMultipliers>
     <researchPrerequisites>
-		<li>MD2_mechwalls_research_DSU</li>
-	</researchPrerequisites>
+      <li>MD2_mechwalls_research_DSU</li>
+    </researchPrerequisites>
   </ThingDef>
-
   <ThingDef ParentName="BuildingBase">
     <defName>MechWallRecessed</defName>
     <label>Recessed Mechanical Wall</label>
@@ -93,10 +90,9 @@
       <MaxHitPoints>300</MaxHitPoints>
       <Flammability>0</Flammability>
     </statBases>
-<!--
+    <!--
     <combatTargetBuilding>false</combatTargetBuilding>
 -->
-
     <altitudeLayer>FloorEmplacement</altitudeLayer>
     <passability>Standable</passability>
     <stuffCategories>
@@ -104,7 +100,7 @@
       <li>Woody</li>
       <li>Stony</li>
     </stuffCategories>
-        <costStuffCount>50</costStuffCount>
+    <costStuffCount>50</costStuffCount>
     <castEdgeShadows>false</castEdgeShadows>
     <menuHidden>true</menuHidden>
     <fillPercent>0.1</fillPercent>
@@ -118,18 +114,17 @@
     <holdsRoof>false</holdsRoof>
     <staticSunShadowHeight>0</staticSunShadowHeight>
     <blockLight>false</blockLight>
-	<blockWind>false</blockWind>
+    <blockWind>false</blockWind>
     <surfaceType>Item</surfaceType>
     <building>
       <isInert>true</isInert>
     </building>
     <comps>
-         <li Class="CompProperties_Power">
+      <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
         <basePowerConsumption>15</basePowerConsumption>
         <transmitsPower>true</transmitsPower>
       </li>
     </comps>
   </ThingDef>
-
 </Defs>

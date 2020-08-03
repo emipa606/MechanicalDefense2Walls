@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-  <identifier>MechanicalDefense2Walls(Continued)</identifier>
-  <version>1.0.2.0</version>
+  <identifier>MechanicalDefence2Walls</identifier>
+  <version>1.0.3.0</version>
   <dependencies />
   <incompatibleWith />
   <loadBefore />
@@ -9,5 +9,4 @@
   <manifestUri>https://raw.githubusercontent.com/emipa606/MechanicalDefense2Walls/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/emipa606/MechanicalDefense2Walls/releases</downloadUri>
 </Manifest>
-
 

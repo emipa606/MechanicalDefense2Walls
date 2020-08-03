@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	
-	<!-- 
+  <!-- 
   <ThingDef Name="BuildingBase" Abstract="True">
     <category>Building</category>
     <thingClass>Building</thingClass>
@@ -17,7 +16,6 @@
 		</statBases>
   </ThingDef>
   -->
-  
   <ThingDef ParentName="BuildingBase" Name="WallBase" Abstract="True">
     <category>Building</category>
     <uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
@@ -39,7 +37,7 @@
     <holdsRoof>false</holdsRoof>
     <staticSunShadowHeight>1.0</staticSunShadowHeight>
     <blockLight>true</blockLight>
-	<blockWind>true</blockWind>
+    <blockWind>true</blockWind>
     <stuffCategories>
       <li>Metallic</li>
       <li>Woody</li>
@@ -55,5 +53,4 @@
       </li>
     </damageMultipliers>
   </ThingDef>
-
 </Defs>

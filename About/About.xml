@@ -2,15 +2,16 @@
 <ModMetaData>
   <name>Mechanical Defense 2 - Walls (Continued)</name>
   <packageId>Mlie.MechanicalDefense2Walls</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/MechanicalDefense2Walls</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of mipens mod for RimWorld 1.1
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/MechanicalDefense2Walls</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of mipens mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1258261161
 
 I removed the dependency to the old "Base"-mod since it could just be replaced with a patch-operation instead.
@@ -27,7 +28,7 @@ https://github.com/emipa606/MechanicalDefense2Walls
 	
 	- mechanical walls
 	
-	>>Mechanical Walls - walls that be raised or lowered to allow access.
+	&gt;&gt;Mechanical Walls - walls that be raised or lowered to allow access.
 	(3 states: wall, embrasure, "walkable floor")
 	
 	update by sulusdacor
