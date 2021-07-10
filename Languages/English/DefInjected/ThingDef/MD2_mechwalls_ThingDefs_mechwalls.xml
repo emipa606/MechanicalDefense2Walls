@@ -1,14 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <MechWallExtended.label>Extended Mechanical Wall</MechWallExtended.label>
   <MechWallExtended.description>An impassable mechanised wall.</MechWallExtended.description>
   <MechWallExtended_Blueprint.label>Extended Mechanical Wall (blueprint)</MechWallExtended_Blueprint.label>
   <MechWallExtended_Frame.label>Extended Mechanical Wall (building)</MechWallExtended_Frame.label>
   <MechWallExtended_Frame.description>An impassable mechanised wall.</MechWallExtended_Frame.description>
-
   <MechWallRecessed.label>Recessed Mechanical Wall</MechWallRecessed.label>
   <MechWallRecessed.description>A mechanised wall that has been recessed into the floor.</MechWallRecessed.description>
-
-
 </LanguageData>
