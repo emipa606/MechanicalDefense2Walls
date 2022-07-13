@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Mechanical Defense 2 - Walls (Continued)</name>
   <packageId>Mlie.MechanicalDefense2Walls</packageId>
@@ -12,20 +12,24 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of mipens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1258261161
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
-		[td][url=https://github.com/emipa606/MechanicalDefence2Walls][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+		[td][url=https://github.com/emipa606/MechanicalDefense2Walls][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 not doing anymore updates for any rimworld mods.
 
@@ -33,11 +37,11 @@ not doing anymore updates for any rimworld mods.
 
 This is just an update of the [url=https://ludeon.com/forums/index.php?topic=7380.0]original Mod[/url]. the description and all content is taken from there.[/b]
 
-[h1]&quot;Mechanical Defense 2 - mechanical walls&quot; (MD2)&quot;[/h1]
+[h1]"Mechanical Defense 2 - mechanical walls" (MD2)"[/h1]
 
-This mod aims to add new and wonderful technologies for your colony to utilise. From autonomous droids to do your every bidding to coal-burning power generators, you&apos;ll find all your technological thirsts satiated here! This mod incorporates a modular structure, meaning there are many different independent modules that you can choose from, so that you can play with the features that you want and leave out the ones you don&apos;t. Just remember that all modules require MD2Base to be installed and loaded before them in order to work.
+This mod aims to add new and wonderful technologies for your colony to utilise. From autonomous droids to do your every bidding to coal-burning power generators, you'll find all your technological thirsts satiated here! This mod incorporates a modular structure, meaning there are many different independent modules that you can choose from, so that you can play with the features that you want and leave out the ones you don't. Just remember that all modules require MD2Base to be installed and loaded before them in order to work.
 
-[b]&gt;&gt;Mechanical Walls[/b] - walls that be raised or lowered to allow access. (Idea courtesy of this [url=https://ludeon.com/forums/index.php?topic=7317.0]post[/url])
+[b]Mechanical Walls[/b] - walls that be raised or lowered to allow access. (Idea courtesy of this [url=https://ludeon.com/forums/index.php?topic=7317.0]post[/url])
 
 [h1]Details:[/h1]
 
@@ -60,7 +64,7 @@ Dropbox link to folder with old mods in forum topic for the mod.
 Changelog in forumtopic or about folder of mod.
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -71,4 +75,3 @@ Changelog in forumtopic or about folder of mod.
 [/list]
 </description>
 </ModMetaData>
-
