@@ -1,23 +1,14 @@
-# MechanicalDefence2Walls
+# MechanicalDefense2Walls
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of mipens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1258261161
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/MechanicalDefence2Walls]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 not doing anymore updates for any rimworld mods.
@@ -26,12 +17,12 @@ not doing anymore updates for any rimworld mods.
 
 This is just an update of the https://ludeon.com/forums/index.php?topic=7380.0]original Mod. the description and all content is taken from there.**
 
-# &quot;Mechanical Defense 2 - mechanical walls&quot; (MD2)&quot;
+# "Mechanical Defense 2 - mechanical walls" (MD2)"
 
 
-This mod aims to add new and wonderful technologies for your colony to utilise. From autonomous droids to do your every bidding to coal-burning power generators, you&apos;ll find all your technological thirsts satiated here! This mod incorporates a modular structure, meaning there are many different independent modules that you can choose from, so that you can play with the features that you want and leave out the ones you don&apos;t. Just remember that all modules require MD2Base to be installed and loaded before them in order to work.
+This mod aims to add new and wonderful technologies for your colony to utilise. From autonomous droids to do your every bidding to coal-burning power generators, you'll find all your technological thirsts satiated here! This mod incorporates a modular structure, meaning there are many different independent modules that you can choose from, so that you can play with the features that you want and leave out the ones you don't. Just remember that all modules require MD2Base to be installed and loaded before them in order to work.
 
-**&gt;&gt;Mechanical Walls** - walls that be raised or lowered to allow access. (Idea courtesy of this https://ludeon.com/forums/index.php?topic=7317.0]post)
+**Mechanical Walls** - walls that be raised or lowered to allow access. (Idea courtesy of this https://ludeon.com/forums/index.php?topic=7317.0]post)
 
 # Details:
 
@@ -55,7 +46,7 @@ Dropbox link to folder with old mods in forum topic for the mod.
 Changelog in forumtopic or about folder of mod.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -65,6 +56,7 @@ Changelog in forumtopic or about folder of mod.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
