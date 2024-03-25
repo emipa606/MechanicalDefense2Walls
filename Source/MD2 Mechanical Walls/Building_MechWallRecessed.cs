@@ -20,7 +20,7 @@ public class Building_MechWallRecessed : Building_MechWall
             defaultDesc = "MD2.MechWallExtendWallDesc".Translate(),
             defaultLabel = "MD2.MechWallExtendWallLable".Translate(),
             activateSound = SoundDef.Named("Click"),
-            disabled = false,
+            Disabled = false,
             groupKey = 313740010,
             icon = ExtendIcon
         };
@@ -31,7 +31,7 @@ public class Building_MechWallRecessed : Building_MechWall
             defaultDesc = "MD2.MechWallOpenEmbrasureDesc".Translate(),
             defaultLabel = "MD2.MechWallOpenEmbrasureLable".Translate(),
             activateSound = SoundDef.Named("Click"),
-            disabled = false,
+            Disabled = false,
             groupKey = 313740011,
             icon = EmbrasureIcon
         };
