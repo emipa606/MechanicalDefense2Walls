@@ -10,7 +10,7 @@ public class Building_MechWallEmbrasure : Building_MechWall
 
     public override IEnumerable<Gizmo> GetGizmos()
     {
-        var command_Action = new Command_Action
+        var commandAction = new Command_Action
         {
             action = ToggleStateOne,
             defaultDesc = "MD2.MechWallExtendWallDesc".Translate(),
@@ -20,8 +20,8 @@ public class Building_MechWallEmbrasure : Building_MechWall
             groupKey = 313740010,
             icon = ExtendIcon
         };
-        yield return command_Action;
-        command_Action = new Command_Action
+        yield return commandAction;
+        commandAction = new Command_Action
         {
             action = ToggleStateTwo,
             defaultDesc = "MD2.MechWallRecessWallDesc".Translate(),
@@ -31,7 +31,7 @@ public class Building_MechWallEmbrasure : Building_MechWall
             groupKey = 313740009,
             icon = RecessIcon
         };
-        yield return command_Action;
+        yield return commandAction;
         if (FabricatedMethod9 == null)
         {
             yield break;

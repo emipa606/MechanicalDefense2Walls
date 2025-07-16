@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Extended Mechanical Wall -->
+  <MechWallExtended.label>Extended Mechanical Wall</MechWallExtended.label>
+  <!-- EN: An impassable mechanised wall. -->
+  <MechWallExtended.description>An impassable mechanised wall.</MechWallExtended.description>
+  <!-- EN: Recessed Mechanical Wall -->
+  <MechWallRecessed.label>Recessed Mechanical Wall</MechWallRecessed.label>
+  <!-- EN: A mechanised wall that has been recessed into the floor. -->
+  <MechWallRecessed.description>A mechanised wall that has been recessed into the floor.</MechWallRecessed.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mechanical embrasure -->
+  <MD2MechEmbrasure.label>mechanical embrasure</MD2MechEmbrasure.label>
+  <!-- EN: A mechanical wall which has been opened to act as an embrasure. -->
+  <MD2MechEmbrasure.description>A mechanical wall which has been opened to act as an embrasure.</MD2MechEmbrasure.description>
+</LanguageData>

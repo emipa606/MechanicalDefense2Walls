@@ -2,5 +2,14 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 9804,
+  "LinesOfXML": 8557,
+  "CodeBaseSize": 68,
+  "LastXmlCleaning": "2025-07-16T20:02:03.8876559+02:00",
+  "SocialImageSet": true,
+  "SearchTags": " modular structure"
 }
