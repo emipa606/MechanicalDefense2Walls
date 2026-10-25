@@ -18,7 +18,7 @@ public static class Keys
 
     public static KeyBindingDef FissureGeneratorChangeFissure => Named("FissureGeneratorChangeFissure");
 
-    public static KeyBindingDef Named(string defName)
+    private static KeyBindingDef Named(string defName)
     {
         return DefDatabase<KeyBindingDef>.GetNamed(defName);
     }

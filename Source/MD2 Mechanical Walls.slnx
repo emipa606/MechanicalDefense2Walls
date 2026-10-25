@@ -6,4 +6,25 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="MD2 Mechanical Walls/MD2 Mechanical Walls.csproj" />
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/Patches/">
+    <File Path="../Patches/ResearchTab_Patch.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingDefs/">
+    <File Path="../1.7/Defs/ThingDefs/MD2_mechwalls_ThingDefs_base.xml" />
+    <File Path="../1.7/Defs/ThingDefs/MD2_mechwalls_ThingDefs_mechembrasure.xml" />
+    <File Path="../1.7/Defs/ThingDefs/MD2_mechwalls_ThingDefs_mechwalls.xml" />
+  </Folder>
+  <Folder Name="/XML/Languages/English/Keyed/">
+    <File Path="../Languages/English/Keyed/Add.xml" />
+    <File Path="../Languages/English/Keyed/FloatMenuOptions.xml" />
+    <File Path="../Languages/English/Keyed/HelpStrings.xml" />
+    <File Path="../Languages/English/Keyed/ITabs.xml" />
+    <File Path="../Languages/English/Keyed/MiscText.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ResearchProjectDefs/">
+    <File Path="../1.7/Defs/ResearchProjectDefs/MD2_mechwalls_ResearchProjectDefs.xml" />
+  </Folder>
 </Solution>

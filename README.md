@@ -58,4 +58,4 @@ Changelog in forumtopic or about folder of mod.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/MechanicalDefense2Walls?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2016313260) | tags: modular structure
+[![Image](https://img.shields.io/github/v/release/emipa606/MechanicalDefense2Walls?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2016313260) | modular structure
